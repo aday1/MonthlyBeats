@@ -1,0 +1,79 @@
+.text{
+    font-size: 25px;
+  color: red;
+  font-family: 'Plaster', cursive;
+  
+}
+.timer{
+  
+}
+
+.main {
+  color: #123;
+    font-family: 'Plaster', cursive;
+        font-size: 48px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+
+#days, #hours, #minutes{
+  color: red;
+  font-size: 75px;
+}
+
+#seconds{
+  color:red;
+  font-size: 75px;
+}
+
+.timer{
+  font-family: 'Poiret One';
+  font-weight: bold;
+}
+
+.container {
+color: red;
+  width: 500px;
+  height: 100vh;
+  margin: 0 auto;
+  background: #3d18j;
+
+}
+
+.main-body {
+}
+
+.counter-style {
+  width: 300px;
+  position:absolute;
+  left:50%;
+  top:50%;
+  transform: translate(-50%, -50%);
+  text-align:center;
+}
+
+.text-seconds {
+  color: orange;
+}
+
+td {
+  padding-right: 45px;
+}
+
+body {
+  background: #31ash98;
+
+}
+
+#content {
+  padding: 12px;
+  background: #3151FF;
+
+}
+label.error {
+  padding: 0 10px;
+  color: #f00;
+}
+

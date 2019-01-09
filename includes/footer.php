@@ -15,12 +15,6 @@
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Plaster|Poiret+One'>
 
       <link rel="stylesheet" href="css/style.css">
-<<<<<<< HEAD
-  
-=======
-
->>>>>>> parent of f5aecc8... FAVICON Enable
-  
 </head>
 
 <body>
